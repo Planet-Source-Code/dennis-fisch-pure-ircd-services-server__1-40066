@@ -1,0 +1,38 @@
+[General]
+Modes=ntrc-
+Limit=10
+Topic=13,0 '%0,13%,6,13'%13,6%,1,6'%6,1%,9,1 <>  Fox Dilligent's IRC Server Network <> 6,1'%1,6%,13,6'%6,13%,0,13'%13,0%,                            
+TopicSetOn=1035301685
+TopicSetBy=ChanServ
+Name=#fox
+Password=0411
+Key=
+[UserLevels]
+Count=3
+[User 1]
+Nickname=Dilligent
+Level=100
+[User 2]
+Nickname=Fox_ItsaTwap
+Level=100
+[Bans]
+Count=0
+[Invites]
+Count=1
+[Exceptions]
+Count=1
+[Ban 1]
+Mask=Dilly
+[Invite 1]
+Mask=*@*.de
+[Exception 1]
+Mask=*@*.de
+[Ban 2]
+Mask=*!*@*
+[Ban 3]
+Mask=*.dip.t-dialin.net
+[Invite 2]
+Mask=*.*
+[User 3]
+Nickname=Dill
+Level=50
